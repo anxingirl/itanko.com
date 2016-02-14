@@ -1,0 +1,4 @@
+name					= itanko Admin
+description		= Admin theme by itanko
+core					= 7.x
+base theme		= adminimal
